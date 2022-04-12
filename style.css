@@ -1,0 +1,33 @@
+/* style.css */
+.paragraph {
+    font-size: 35px;
+    line-height: 35px;
+    font-family: 'EB Garamond', serif;
+}
+body {
+    background-color: bisque;
+    margin:20mm; 
+    border: 0px solid black;
+    margin-top: 0px;
+}
+.list {
+    font-size: 25px
+}
+.steps{
+    font-size: 25px;
+}
+.img1{
+    width: 500px;
+    height: 300px;
+    display: block;  
+}
+.img2{
+    display: block;  
+}
+.image{
+    width: 400px;
+    height: 200px;
+    display: block;
+}
+
+
